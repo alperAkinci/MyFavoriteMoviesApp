@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "160ac10babc586703db35ce9dfe106e0"
+build_time: [517481487, 37186000]
+inputs:
+  "/Users/alper/Documents/Developer/iOS - Swift/Projects/MyFavoriteMovies 2/MyFavoriteMovies/Movie.swift": [506015685, 0]
+  "/Users/alper/Documents/Developer/iOS - Swift/Projects/MyFavoriteMovies 2/MyFavoriteMovies/LoginViewController.swift": [506015563, 0]
+  "/Users/alper/Documents/Developer/iOS - Swift/Projects/MyFavoriteMovies 2/MyFavoriteMovies/AppDelegate.swift": [506015661, 0]
+  "/Users/alper/Documents/Developer/iOS - Swift/Projects/MyFavoriteMovies 2/MyFavoriteMovies/MovieDetailViewController.swift": [506015596, 0]
+  "/Users/alper/Documents/Developer/iOS - Swift/Projects/MyFavoriteMovies 2/MyFavoriteMovies/FavoritesTableViewController.swift": [506015647, 0]
+  "/Users/alper/Documents/Developer/iOS - Swift/Projects/MyFavoriteMovies 2/MyFavoriteMovies/MoviesTableViewController.swift": [506015676, 0]
